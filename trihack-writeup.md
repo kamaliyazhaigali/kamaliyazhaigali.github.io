@@ -12,7 +12,7 @@
 # in the reset request, Host Header poisoning — something I'd already covered on PortSwigger)
 # — so next time I check the statistically likely vulnerability for that flow type first, instead of guessing with cookies or forced browsing.]
 # [What I have learned after this CTF: first this id first thing that increased my interest in this field and introduced me with cybersecurity and related fields.
-# I have learbed many new stuff and found many useful apps.Got hands-on experience with Burp Suite in a live, unstructured scenario
+# I have learned many new stuff and found many useful apps and sites such as exploit-db,web.archive.org, picoctf.ord,etc .Got hands-on experience with Burp Suite in a live, unstructured scenario
 # — different from following a guided PortSwigger lab, this required deciding what to test with no walkthrough.
 # First real exposure to competitive CTF pressure and time constraints, 
 # which showed me the gap between recognizing a vulnerability type in a lab and identifying it live under time pressure.]
